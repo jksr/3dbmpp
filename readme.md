@@ -23,8 +23,8 @@ This software depends the following python packages
 * [biopython](https://biopython.org/)
 
 and following software
-* [BBQ algorithm]()**TODO**
-* [Scwrl4]()**TODO**
+* [BBQ algorithm](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.20624)**TODO**
+* [Scwrl4](http://dunbrack.fccc.edu/scwrl4)**TODO**
 
 ### Usage:
 **TODO**
