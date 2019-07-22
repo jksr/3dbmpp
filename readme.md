@@ -6,7 +6,21 @@ The method was described in
 `High-resolution structure prediction of β-barrel membrane proteins.
 W Tian, M Lin, K Tang, J Liang, H Naveed. 
 *Proceedings of the National Academy of Sciences* 115 (7), 1511-1516`
-Please cite the above paper if you use *3DBMPP* in your research.
+Please cite the paper if you use *3DBMPP* in your research.
+
+```
+    @article {Tian201716817,
+        author = {Tian, Wei and Lin, Meishan and Tang, Ke and Liang, Jie and Naveed, Hammad},
+        title = {High-resolution structure prediction of β-barrel membrane proteins},
+        year = {2018},
+        doi = {10.1073/pnas.1716817115},
+        publisher = {National Academy of Sciences},
+        issn = {0027-8424},
+        URL = {http://www.pnas.org/content/early/2018/01/25/1716817115},
+        eprint = {http://www.pnas.org/content/early/2018/01/25/1716817115.full.pdf},
+        journal = {Proceedings of the National Academy of Sciences}
+    }
+```
 
 
 ### Note:
@@ -17,6 +31,8 @@ This information can be obtained through 3rd-party software such as the ones lis
 Due to the computation complexity, this package only provides the structure prediction for the barrel domains of the TMBs.
 For the loop sampling mentioned in Tian *et. al*, please refer to
 [https://github.com/uic-lianglab/ompg-public](https://github.com/uic-lianglab/ompg-public).
+
+You may also check [https://github.com/nerrull/BetaBarrelRefactor](https://github.com/nerrull/BetaBarrelRefactor), which is a refactored version by [Etienne Richan](https://github.com/nerrull) of 3DBMPP with loop modeling via *MODELLER*.
 
 ### Dependency:
 This software depends the following python packages
