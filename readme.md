@@ -26,7 +26,20 @@ and following software
 * [BBQ algorithm](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.20624)**TODO**
 * [Scwrl4](http://dunbrack.fccc.edu/scwrl4)**TODO**
 
+### Installation:
+
+#### Linux:
+
+`git clone https://github.com/jksr/3dbmpp-pipe.git`
+`cd bin/src`
+`make`
+`cd ../..`
+
 ### Usage:
+
+
+
+
 **TODO**
 
 
