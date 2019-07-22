@@ -6,6 +6,7 @@ The method was described in
 `High-resolution structure prediction of β-barrel membrane proteins.
 W Tian, M Lin, K Tang, J Liang, H Naveed. 
 *Proceedings of the National Academy of Sciences* 115 (7), 1511-1516`
+Please cite the above paper if you use *3DBMPP* in your research.
 
 
 ### Note:
